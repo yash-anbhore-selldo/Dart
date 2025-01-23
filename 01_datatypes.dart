@@ -5,6 +5,10 @@ void main(){
 
   // --------------------------------< Data types  >--------------------------//
 
+    // By default values are non-nullable
+    // We use ? to make it nullable 
+
+
     //----------------Number - int , double , num -----------------------
 
       /*
@@ -53,10 +57,17 @@ void main(){
       It allows duplicates and the order of elements is maintained.
       A List can be accessed using an index.
     */
-        List<int> numbers = [1, 2, 3, 4];
+        List<int> numbers = [1, 2, 3, 4];    // now it can only store the int type 
         List<String> names = ['Alice', 'Bob', 'Charlie'];
 
         print("Name = $names  \nNumber = $numbers");
+
+
+        List arr  =[1,3,"e"];  // now it can store both int and str
+        print("Array :- \n $arr");
+
+        
+
 
 
 
@@ -68,6 +79,7 @@ void main(){
         Set<String> colors = {'Red', 'Green', 'Blue'};
         // Adding an element
         colors.add('Yellow');
+        
         print(colors); // {Red, Green, Blue, Yellow}
 
 

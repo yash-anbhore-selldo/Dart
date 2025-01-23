@@ -1,8 +1,12 @@
 void main() {
 
   /* -------------------- var ----------------------------
-      // The type is determined at compile time based on the assigned value and cannot change later, ensuring type safety.
+      // The type is determined at compile time based on the assigned value and cannot change later, 
+      //ensuring type safety.
   */
+
+    var currtime = DateTime.now();
+    print("Current Time :- $currtime");
 
   /* ---------------------- dynamic
     The type is flexible and can change at runtime, but it lacks type safety,
