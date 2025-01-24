@@ -94,7 +94,7 @@ void main(){
         Map<String, int> agemp = {
         'Alice': 30,
         'Bob': 25,
-        'Charlie': 35
+        'Charlie': 35,
       };
       print ("Age = $agemp");
 

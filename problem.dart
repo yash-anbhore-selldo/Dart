@@ -13,17 +13,18 @@ void main() {
     "i": false,
     "j": false,
   };
-
+// use hashmap and its methods
 
   void sortItems() {
     var sortedKeys = item.keys.toList();
     sortedKeys..sort((key1, key2) {    // .. cascade operator to modify the list in place
-        if (key1 == 'c' || key1 == 'd') return -1;
+        if (key1 == 'c' || key1 == 'd') return -1;  
         if (key2 == 'c' || key2 == 'd') return 1;
-        if (item[key1] == true && item[key2] == false) return -1;
-        if (item[key1] == false && item[key2] == true) return 1;
+        if (item[key1] == true && item[key2] == false) return -1; // it moves 1st item before 2nd
+        if (item[key1] == false && item[key2] == true) return 1;  // it moves 1st item after 2nd
         return 0;
       });
+      print(sortedKeys);
     item = {for (var key in sortedKeys) key: item[key]!};
   }
 
