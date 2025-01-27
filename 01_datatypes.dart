@@ -50,7 +50,6 @@ void main(){
     print("State = $istrue");
 
 
-
     //------------------List-----------------------------
     /*
       A List in Dart is an ordered collection of objects. 
@@ -65,10 +64,6 @@ void main(){
 
         List arr  =[1,3,"e"];  // now it can store both int and str
         print("Array :- \n $arr");
-
-        
-
-
 
 
     //------------------Set-----------------------------

@@ -4,88 +4,72 @@ void main() {
   map();
 }
 
+void map() {
+  ///  Create map
 
+  //While null can be a valid key in a Dart Map, it must be unique like any other key.
+  //In this case, all keys are null, so the last assignment overwrites the previous ones.
+  Map<Null, Null> myMapNull = {
+    null: null,
+    null: null,
+    null: null
+  }; // map takes null as value
+  // ans => {null:null}  it will just overwrite the key and value
 
+  Map<int, String> myMap = {1: 'a', 2: 'b', 3: 'c'};
 
+  print(myMap); // Output: {1: a, 2:b, 3:c}
 
+  Map<String, int> map = {}; // empty map
 
-
-
-
-void map(){
-
-
-
-  ///  Create map 
-  Map<String, int> myMap = {'a': 1, 'b': 2, 'c': 3};
-  print(myMap); // Output: {a: 1, b: 2, c: 3}
-
-  Map<String,int> map ={};  // empty map 
-
-
-  var x = {
-    'a':1,
-    'b':2
-  };
+  var x = {'a': 1, 'b': 2};
 
   print(x);
+
+  // clear() it clears the map
+  
+  x.clear();
+  print("Using clear method to clear the map - $x"); //{}
 
   //Add an element in map
 
   var mp = {};
-  mp[0]="12";
-  mp[0]="1";
-  mp[1]="13";
+  mp[-1] = "12";
+  mp[-2] = "1";
+  mp[-3] = "13";
 
-  print(mp);
-
+  print("Values added through keys like mp[key] = value - $mp");   // output  {-1: 12, -2: 1, -3: 13}
 
 // addAll method in map
 
-mp.addAll({"a":2,"b":3});
-print(mp);
+  mp.addAll({"a": 2, "b": 3});
+  print(mp);
 
 
 // returns null if key does not exist
 
   print(map['c']); // Output: null
 
-
 //remove
   var removedValue = mp.remove('a'); // Removes key 'a'
-    print("Removed value $removedValue"); // Output: 1
+  print("Removed value $removedValue"); // Output: 1
 
-
-  // putIfAbsemt 
-   mp.putIfAbsent('b', () => 2); // Does not overwrite existing 'b' = 3
-  mp.putIfAbsent('a', () => 3); 
-  print(mp); 
-
+  // putIfAbsemt
+  mp.putIfAbsent('b', () => 2); // Does not overwrite existing 'b' = 3
+  mp.putIfAbsent('a', () => 3);
+  print(mp);
 
   // isempty isnotempty
   map.clear();
-  print(map.isEmpty);    // Output: true
-  print(mp.isNotEmpty);  // true
-  print(mp.isEmpty);    // false
-
+  print(map.isEmpty); // Output: true
+  print(mp.isNotEmpty); // true
+  print(mp.isEmpty); // false
 
   // entries
   for (var entry in mp.entries) {
     print('${entry.key}: ${entry.value}');
   }
-    
-
-
-
 }
-
-
-
-
-
-
-
-
 
 void set() {
   /**
@@ -185,15 +169,6 @@ void set() {
   numbers.forEach((element) => print(element));
 }
 
-
-
-
-
-
-
-
-
-
 // --------------  List   -------------------
 
 void list() {
@@ -288,9 +263,6 @@ void list() {
   print("\n\n\t\tList Operation\n\nList is : \t$nums0");
   nums0.sort(); // List becomes: [1, 1, 3, 4, 5, 9]
   print("Sorted List is \t$nums0");
-
-
-  
 
 // Reversed List: Use reversed to reverse the order of the list.
   List<int> nums1 = [1, 2, 3];

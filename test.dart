@@ -59,3 +59,20 @@
 //    */
 // }
 
+/**
+ * If your numbers have more than 15–17 significant digits, 
+ * Dart's double type will round or truncate them. 
+ */
+
+
+// if 7 digits it wont trim the decimal value
+// if 13 digits it will round up the value
+// if 13 digit and after  . 4 digits it will round  up
+void main(){
+  var arr1 = [8, 100.01, 12345678901234.102007, 1234567890123.0009];
+  // print(Decimal.parse(arr1));
+  print(arr1);
+
+  print(BigInt.parse('arr1'));
+
+}

@@ -1,0 +1,4625 @@
+
+{
+    "data": [
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                98.0,
+                                421302.0,
+                                4299.0,
+                                426949166.4,
+                                426949166.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba47aa923d4a6815477d04",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                98.0,
+                                421302.0,
+                                4299.0,
+                                426949166.4,
+                                426949166.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba47c8923d4a69514775c0",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                98.0,
+                                421302.0,
+                                4299.0,
+                                405265870.2,
+                                405265870.2,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba15f5923d4a0649ca787d",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Elderberry - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                98.0,
+                                421302.0,
+                                4299.0,
+                                426949166.4,
+                                426949166.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba4818923d4a69514775cf",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Group 1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                96.0,
+                                480000.0,
+                                5000.0,
+                                442400000.0,
+                                461471000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6f396e923d4a584b68045b",
+                                "5a6f39e4923d4a584b680481",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "B-Gardenia",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                96.0,
+                                480000.0,
+                                5000.0,
+                                461493500.0,
+                                461493500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a716725923d4a1d8d15e9b8",
+                                "5a7167d4923d4a5c41d15521",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                95.0,
+                                408405.0,
+                                4299.0,
+                                410469809.7,
+                                410469809.7,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba15b2923d4a6815476cd3",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "A-Gardenia",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                95.0,
+                                475000.0,
+                                5000.0,
+                                477228500.0,
+                                477228500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a716725923d4a1d8d15e9b8",
+                                "5a716bbd923d4a584b68b06e",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                94.0,
+                                404106.0,
+                                4299.0,
+                                392085566.1,
+                                392085566.1,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb41b1923d4a6815479255",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                94.0,
+                                404106.0,
+                                4299.0,
+                                406282583.7,
+                                406282583.7,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb418b923d4a564887ff02",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Elderberry - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                92.0,
+                                395508.0,
+                                4299.0,
+                                405564220.8,
+                                405564220.8,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb4137923d4a6eead3d956",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Group 1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                90.0,
+                                450000.0,
+                                5000.0,
+                                423375000.0,
+                                443744500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6f396e923d4a584b68045b",
+                                "5a6f39cb923d4a584b68047c",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                86.0,
+                                369714.0,
+                                4299.0,
+                                379830406.8,
+                                379830406.8,
+                                4685480.1
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb40e9923d4a564887fed6",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                77.0,
+                                326733.09,
+                                4243.29,
+                                346239422.8,
+                                346239422.8,
+                                10500.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb40c5923d4a567f87f82a",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Elderberry - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                56.0,
+                                240744.0,
+                                4299.0,
+                                274741351.8,
+                                274741351.8,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba47f6923d4a6815477d18",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                56.0,
+                                240744.0,
+                                4299.0,
+                                286010750.4,
+                                286010750.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba4838923d4a77953b8d9e",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                56.0,
+                                240744.0,
+                                4299.0,
+                                286010750.4,
+                                286010750.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba4874923d4a6815477d44",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - C",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                56.0,
+                                240744.0,
+                                4299.0,
+                                285510777.7,
+                                285492291.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba1617923d4a6815476cf4",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Group 1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - C",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                56.0,
+                                280000.0,
+                                5000.0,
+                                313880000.0,
+                                332045000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6f396e923d4a584b68045b",
+                                "5a6f39f0923d4a584b680483",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                56.0,
+                                240744.0,
+                                4299.0,
+                                286010750.4,
+                                286010750.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba4855923d4a6815477d2e",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                56.0,
+                                240744.0,
+                                4299.0,
+                                284495782.8,
+                                284495782.8,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba488c923d4a6815477d4c",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                55.0,
+                                236445.0,
+                                4299.0,
+                                279944431.5,
+                                279944431.5,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb422c923d4a56c487f896",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                55.0,
+                                236445.0,
+                                4299.0,
+                                279996449.4,
+                                279996449.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb41f6923d4a78aef53842",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - C",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                54.0,
+                                232146.0,
+                                4299.0,
+                                276675471.9,
+                                276675471.9,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb41d8923d4a564887ff1c",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                54.0,
+                                232146.0,
+                                4299.0,
+                                275684552.4,
+                                275684552.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb414f923d4a56c487f877",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                53.0,
+                                227847.0,
+                                4299.0,
+                                269430797.1,
+                                269430797.1,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb416a923d4a6815479245",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "C-Gardenia",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                53.0,
+                                265000.0,
+                                5000.0,
+                                316652500.0,
+                                316652500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a716725923d4a1d8d15e9b8",
+                                "5a7167eb923d4a584b68ad32",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Elderberry - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                52.0,
+                                223548.0,
+                                4299.0,
+                                255014530.5,
+                                255014530.5,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb4105923d4a6eead3d951",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - C",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                52.0,
+                                260000.0,
+                                5000.0,
+                                294340000.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6ed0af923d4a586867afdd",
+                                "5a6ee494923d4a585567bdb8",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                36.0,
+                                180000.0,
+                                5000.0,
+                                170165000.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6ed0af923d4a586867afdd",
+                                "5a6ee47a923d4a584b67c646",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                28.0,
+                                120372.0,
+                                4299.0,
+                                125048452.2,
+                                125048452.2,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b050a4a7c0dac0fe808fcc9",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                28.0,
+                                120372.0,
+                                4299.0,
+                                107227377.6,
+                                162653524.8,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b050d927c0dac73968805b6",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                28.0,
+                                120372.0,
+                                4299.0,
+                                125048452.2,
+                                125048452.2,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b0509cc7c0dac65c4607f43",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                28.0,
+                                120372.0,
+                                4299.0,
+                                107227377.6,
+                                162653524.8,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b050dc37c0dac44af6fc8e7",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                28.0,
+                                120372.0,
+                                4299.0,
+                                134130519.6,
+                                134130519.6,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b0508827c0dac46816fc5f4",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia C",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                28.0,
+                                120372.0,
+                                4299.0,
+                                123435467.4,
+                                123435467.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b0508987c0dac0fe808fc2a",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "PS Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "PS Tower 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                27.0,
+                                136500.0,
+                                5055.56,
+                                199800000.0,
+                                202500000.0,
+                                12521000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5888506454138524b8000ab5",
+                                "5888507ca7a0394c00000463",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Elderberry A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                26.0,
+                                111774.0,
+                                4299.0,
+                                125018359.2,
+                                125018359.2,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b050cff7c0dac44af6fc8b3",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Demo Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                25.0,
+                                20913.74,
+                                836.55,
+                                25729323.53,
+                                24513562.96,
+                                24513609.42
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55448e643bb2f8e027000491",
+                                "5f3bd2967c0dac70420f6c15",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Prerana Sanity Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Phase A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                23.0,
+                                2300.0,
+                                100.0,
+                                1187460.0,
+                                1117100.0,
+                                1159100.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "667042792f31c6d7d7990dd3",
+                                "6670434de1148706211d2ba2",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                22.0,
+                                94578.0,
+                                4299.0,
+                                80719743.6,
+                                80719743.6,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb40c5923d4a567f87f82a",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Prerana Sanity Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Phase A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                19.0,
+                                1701.0,
+                                94.5,
+                                894000.0,
+                                930000.0,
+                                966000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "667042792f31c6d7d7990dd3",
+                                "6670434de1148706211d2ba2",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                18.0,
+                                77382.0,
+                                4299.0,
+                                91664997.6,
+                                91664997.6,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b0508337c0dac73968803a2",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sagar test 2",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "SagarTower2",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                16.0,
+                                2443.13,
+                                222.1,
+                                2720732.0,
+                                2720732.0,
+                                2720932.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65b89c70735dafbb4c51d1fb",
+                                "65b89cf258f1e72c0a3f6527",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                16.0,
+                                80000.0,
+                                5000.0,
+                                85861000.0,
+                                5682260.0,
+                                5682260.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6ed0af923d4a586867afdd",
+                                "5a6ed73a923d4a585567b73f",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                14.0,
+                                60186.0,
+                                4299.0,
+                                42033902.4,
+                                63718918.2,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b050da87c0dac4ebfe0a38d",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                14.0,
+                                60186.0,
+                                4299.0,
+                                42033902.4,
+                                63718918.2,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b053a467c0dac46816fcf75",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                12.0,
+                                51588.0,
+                                4299.0,
+                                47118759.6,
+                                47118759.6,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb40e9923d4a564887fed6",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Iris Residency",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Wing - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                11.0,
+                                71500.0,
+                                6500.0,
+                                180895000.0,
+                                180895000.0,
+                                131560000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "57a42d70a7a0392cc1000310",
+                                "57a42e903bb2f859b50003e5",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                11.0,
+                                55000.0,
+                                5000.0,
+                                58365000.0,
+                                5963560.0,
+                                5963560.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6ed0af923d4a586867afdd",
+                                "5a6ed73a923d4a585567b73f",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "TEST TOWER 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                11.0,
+                                73001.0,
+                                6636.45,
+                                48360002.0,
+                                78747677.0,
+                                67371149.89
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "56b8689d541385902e000845",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "niks empire",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                11.0,
+                                54007.22,
+                                4909.75,
+                                48603000.0,
+                                37809900.0,
+                                3000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "568e028c541385288e000064",
+                                "568e04823bb2f8b32300023b",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Edge Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                9.0,
+                                38691.0,
+                                4299.0,
+                                38218969.8,
+                                38218969.8,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5b0503e87c0dac0fe808fac9",
+                                "5b0508337c0dac73968803a2",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Park Township",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": null,
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                7.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                45287500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "54893c24a7a0392ec8000114",
+                                "54893ccb5413853a52000147",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Metro grp",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                7.0,
+                                45700.0,
+                                6528.57,
+                                44030000.0,
+                                47530000.0,
+                                19130000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "570ca62d5413859a47000477",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sky Towers",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Skyway Test tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                7.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                49407192.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "548865205413852e38000008",
+                                "571857eb541385534a000084",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                6.0,
+                                30000.0,
+                                5000.0,
+                                23315000.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6ed0af923d4a586867afdd",
+                                "5a6ee47a923d4a584b67c646",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Elderberry - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                6.0,
+                                25794.0,
+                                4299.0,
+                                21384945.6,
+                                21384945.6,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb4137923d4a6eead3d956",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Group 1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                6.0,
+                                30000.0,
+                                5000.0,
+                                33065000.0,
+                                34626500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6f396e923d4a584b68045b",
+                                "5a6f39cb923d4a584b68047c",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Mayur Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Haveli A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                6.0,
+                                10000.0,
+                                5000.0,
+                                12000000.0,
+                                12000000.0,
+                                12000200.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65fbe43b58f1e7c4fd020851",
+                                "65fbea4458f1e7c4c0021550",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ankit Tower 11",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "ATower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                6.0,
+                                15000.0,
+                                2500.0,
+                                13100000.0,
+                                13100000.0,
+                                500000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f2198a7a039e779000004",
+                                "574ea4065413855525000181",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "PS Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "PS Tower 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                6.0,
+                                7127.69,
+                                1187.95,
+                                7034678.0,
+                                7337428.0,
+                                20345195.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5888506454138524b8000ab5",
+                                "5888507ca7a0394c00000463",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Demo Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                4.0,
+                                37100.1,
+                                9275.02,
+                                33410012.0,
+                                33410012.0,
+                                33410012.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55448e643bb2f8e027000491",
+                                "5f3bd2967c0dac70420f6c15",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "imperial Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Imperial Tower 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                4.0,
+                                4751.15,
+                                1187.79,
+                                1521480604.0,
+                                6085204.0,
+                                11120940.95
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5513c8c33bb2f8e990000364",
+                                "5513c94b3bb2f8e990000387",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                4.0,
+                                17196.0,
+                                4299.0,
+                                15735629.7,
+                                15735629.7,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb418b923d4a564887ff02",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Elderberry - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                4.0,
+                                17196.0,
+                                4299.0,
+                                19726821.3,
+                                19726821.3,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb4105923d4a6eead3d951",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - C",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                4.0,
+                                20000.0,
+                                5000.0,
+                                19540000.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6ed0af923d4a586867afdd",
+                                "5a6ee494923d4a585567bdb8",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "niks empire",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                4.0,
+                                24000.0,
+                                6000.0,
+                                21600000.0,
+                                21600000.0,
+                                16200000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "568e028c541385288e000064",
+                                "568e04823bb2f8b32300023b",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                4.0,
+                                17196.0,
+                                4299.0,
+                                13180304.1,
+                                13180304.1,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb41b1923d4a6815479255",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "A-Gardenia",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                3.0,
+                                15000.0,
+                                5000.0,
+                                13604500.0,
+                                13604500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a716725923d4a1d8d15e9b8",
+                                "5a716bbd923d4a584b68b06e",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                3.0,
+                                12897.0,
+                                4299.0,
+                                16579953.3,
+                                16579953.3,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb416a923d4a6815479245",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "PS Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "PS Tower 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Hold",
+                            "values": [
+                                3.0,
+                                11000.0,
+                                3666.67,
+                                15600000.0,
+                                15900000.0,
+                                8321000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5888506454138524b8000ab5",
+                                "5888507ca7a0394c00000463",
+                                "hold"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "imperial Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Imperial Tower 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                3.0,
+                                431.0,
+                                143.67,
+                                12416055.0,
+                                116055.0,
+                                121857.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5513c8c33bb2f8e990000364",
+                                "5513c94b3bb2f8e990000387",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sagar test 2",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "SagarTower2",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                3.0,
+                                51.52,
+                                17.17,
+                                1500.0,
+                                1500.0,
+                                1466.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65b89c70735dafbb4c51d1fb",
+                                "65b89cf258f1e72c0a3f6527",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "C-Gardenia",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                3.0,
+                                15000.0,
+                                5000.0,
+                                15392500.0,
+                                15392500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a716725923d4a1d8d15e9b8",
+                                "5a7167eb923d4a584b68ad32",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                3.0,
+                                12897.0,
+                                4299.0,
+                                11548403.7,
+                                11548403.7,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba15b2923d4a6815476cd3",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sagar",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Sagar (Sagar)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                3.0,
+                                28998.0,
+                                9666.0,
+                                5678250.0,
+                                5678250.0,
+                                5678250.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "66b4f79058f1e7f2640a9052",
+                                "66b4f876a3d855ec5c8c9ae8",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ameya Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower-A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                3.0,
+                                12000.0,
+                                4000.0,
+                                11640000.0,
+                                11640000.0,
+                                11640000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55978b6a3bb2f8c12d0003d9",
+                                "55978be7a7a0390dbf0001bb",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ameya Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower-A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                3.0,
+                                21000.0,
+                                7000.0,
+                                11640000.0,
+                                11640000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55978b6a3bb2f8c12d0003d9",
+                                "55978be7a7a0390dbf0001bb",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - C",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                8598.0,
+                                4299.0,
+                                8816819.1,
+                                8816819.1,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb41d8923d4a564887ff1c",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Mp1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "t1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                400.0,
+                                200.0,
+                                240000.0,
+                                240000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5786210a54138564760004ee",
+                                "578621a7a7a0394b6900057b",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ramil",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "ann",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                11000.0,
+                                5500.0,
+                                10000000.0,
+                                7047040000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "58fdfa343bb2f83b660015fd",
+                                "58fdfcc63bb2f819250017e3",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": null,
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                2.0,
+                                30001.0,
+                                15000.5,
+                                21000101.0,
+                                26055426.0,
+                                27879298.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "54abafab54138560cd000678",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "B-Gardenia",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                10000.0,
+                                5000.0,
+                                9855500.0,
+                                9855500.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a716725923d4a1d8d15e9b8",
+                                "5a7167d4923d4a5c41d15521",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Fucshia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                8598.0,
+                                4299.0,
+                                10326198.0,
+                                10326198.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb414f923d4a56c487f877",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Group 1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                10000.0,
+                                5000.0,
+                                9450000.0,
+                                9878000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6f396e923d4a584b68045b",
+                                "5a6f39e4923d4a584b680481",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Lopment Empire",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "HK-1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                12727.27,
+                                6363.64,
+                                5000000.0,
+                                5000000.0,
+                                8000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "56963469541385c03900020c",
+                                "569732ce541385be38000044",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sagar test 2",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "SagarTower2",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                2.0,
+                                8658.0,
+                                4329.0,
+                                8158220.0,
+                                8158220.0,
+                                8158220.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65b89c70735dafbb4c51d1fb",
+                                "65b89cf258f1e72c0a3f6527",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sky Towers",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Skyway Test tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                2.0,
+                                7232.0,
+                                3616.0,
+                                2489936.0,
+                                3419972.0,
+                                504872.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "548865205413852e38000008",
+                                "571857eb541385534a000084",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Demo Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                2.0,
+                                1000.91,
+                                500.45,
+                                2001000.0,
+                                2001000.0,
+                                2001100.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55448e643bb2f8e027000491",
+                                "5f3bd2967c0dac70420f6c15",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Demo Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "tower (Amura Demo Project)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1.0,
+                                1.0,
+                                1.0,
+                                1.0,
+                                1.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55448e643bb2f8e027000491",
+                                "66c616f12f31c65ffc1cce7a",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Project Test",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower (Project Test)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                23.0,
+                                23.0,
+                                100.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5fa0eac7a6bbc9111e5fb067",
+                                "66ab5bb4735daf896447036a",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                1.0,
+                                4299.0,
+                                4299.0,
+                                4551351.3,
+                                4551351.3,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb422c923d4a56c487f896",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "tower A (Amura Residences)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                25000.0,
+                                25000.0,
+                                17500000.0,
+                                21555325.0,
+                                23064197.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "66cecc45735daf7e8731dfc5",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Aniket Inventory Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Aniket Inventory Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Hold",
+                            "values": [
+                                1.0,
+                                1000.0,
+                                1000.0,
+                                100000.0,
+                                100100.0,
+                                100300.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "67495a3b5d8defb1ab1d49d5",
+                                "674985d5e11487cd5daec07e",
+                                "hold"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "My new project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tow (My new project)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1.0,
+                                1.0,
+                                11.0,
+                                11.0,
+                                11.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5ae2cefd923d4a67354cbfd1",
+                                "67039f3f2f31c65efef5116f",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "niks empire",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Sold",
+                            "values": [
+                                1.0,
+                                6000.0,
+                                6000.0,
+                                5400000.0,
+                                5400000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "568e028c541385288e000064",
+                                "568e04823bb2f8b32300023b",
+                                "sold_1716518775288"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sky Towers",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "ann",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                1.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "548865205413852e38000008",
+                                "58fdfcc63bb2f819250017e3",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Springs Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Custom",
+                            "values": [
+                                1.0,
+                                5000.0,
+                                5000.0,
+                                5280000.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6ed0af923d4a586867afdd",
+                                "5a6ed73a923d4a585567b73f",
+                                "custom_1725361777108"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Prerana Sanity Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Phase A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Hold",
+                            "values": [
+                                1.0,
+                                100.0,
+                                100.0,
+                                53000.0,
+                                71960.0,
+                                73960.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "667042792f31c6d7d7990dd3",
+                                "6670434de1148706211d2ba2",
+                                "hold"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ameya Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "ATower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                1.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55978b6a3bb2f8c12d0003d9",
+                                "574ea4065413855525000181",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Group 1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Hold",
+                            "values": [
+                                1.0,
+                                5000.0,
+                                5000.0,
+                                5895000.0,
+                                6204000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6f396e923d4a584b68045b",
+                                "5a6f39cb923d4a584b68047c",
+                                "hold"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "TOWER B (Amura Residences)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                600.0,
+                                600.0,
+                                360000.0,
+                                4415325.0,
+                                4724397.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "66bb4e6da3d8553d46f2485a",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "project test new",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower 3",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                1.0,
+                                3400.0,
+                                3400.0,
+                                34003400.0,
+                                34003400.0,
+                                34003400.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "6684266058f1e71c5af74a3a",
+                                "668426cd2f31c65a26286b71",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Prerana Sanity Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "onkaw (Prerana Sanity Project)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                1.0,
+                                1.0,
+                                1.0,
+                                12.0,
+                                12.0,
+                                24.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "667042792f31c6d7d7990dd3",
+                                "670cc4cf735daf68189f74bb",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                1.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "5b0508337c0dac73968803a2",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Forest2.0",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "TowerA (Forest2.0)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                15000.0,
+                                15000.0,
+                                2250000.0,
+                                2250000.0,
+                                2250000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "66b4f78058f1e7f2640a9041",
+                                "66b4f7fd0d185155074b723c",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "TOWER 2 (Amura Residences)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                30000.0,
+                                30000.0,
+                                30000000.0,
+                                34055325.0,
+                                36439197.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "66cede10e11487bf00555f81",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Project Plot",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "BLT10",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1500.0,
+                                1500.0,
+                                1500000.0,
+                                1500000.0,
+                                1500000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "677e1ee758f1e7659dee926d",
+                                "677e23725d8defd9e6d25385",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sagar1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower (Sagar1)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                70.0,
+                                70.0,
+                                1400.0,
+                                1400.0,
+                                1400.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "66d5b7142f31c66b648276b6",
+                                "66d5b75c735daf73a71c7a7a",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Mayur Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Haveli A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                5000.0,
+                                5000.0,
+                                6000000.0,
+                                6000000.0,
+                                6000100.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65fbe43b58f1e7c4fd020851",
+                                "65fbea4458f1e7c4c0021550",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Mayur Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Haveli A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                1.0,
+                                5000.0,
+                                5000.0,
+                                6000000.0,
+                                6000000.0,
+                                6000100.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65fbe43b58f1e7c4fd020851",
+                                "65fbea4458f1e7c4c0021550",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Demo Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower C (Amura Demo Project)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1200.0,
+                                1200.0,
+                                1450800.0,
+                                1450800.0,
+                                1450800.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55448e643bb2f8e027000491",
+                                "6729e942e11487768ce6fa03",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ankit Tower 11",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Wing - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                1.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f2198a7a039e779000004",
+                                "57a42e903bb2f859b50003e5",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Lopment Empire",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "HK-1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1400.0,
+                                1400.0,
+                                10135500.0,
+                                9459800.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "56963469541385c03900020c",
+                                "569732ce541385be38000044",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sky Towers",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "TEST TOWER 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                1.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "548865205413852e38000008",
+                                "56b8689d541385902e000845",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "imperial Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Imperial Tower 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Not Available",
+                            "values": [
+                                1.0,
+                                1234.0,
+                                1234.0,
+                                12186998784.0,
+                                12186984.0,
+                                12796333.2
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5513c8c33bb2f8e990000364",
+                                "5513c94b3bb2f8e990000387",
+                                "not_available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Aniket Inventory Postsales Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                100.0,
+                                100.0,
+                                20000.0,
+                                20000.0,
+                                20000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "67495d162f31c682664031f4",
+                                "675c337de1148704d98adc9f",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Group 1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Gardenia - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Not Available",
+                            "values": [
+                                1.0,
+                                5000.0,
+                                5000.0,
+                                5895000.0,
+                                6258000.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5a6f396e923d4a584b68045b",
+                                "5a6f39cb923d4a584b68047c",
+                                "not_available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sreesai Project _1",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Sreesai Phase 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                1.0,
+                                1234.0,
+                                1234.0,
+                                15233730.0,
+                                15233730.0,
+                                15233730.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "642bed7ded23e952dde18c78",
+                                "642bedc5ed23e93711b3bca3",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Project Plot",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "BLT20",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1000.0,
+                                1000.0,
+                                1500000.0,
+                                1500000.0,
+                                1500000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "677e1ee758f1e7659dee926d",
+                                "677e23bf58f1e75b53aa3ee1",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Prerana Sanity Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Phase A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                100.0,
+                                100.0,
+                                48600.0,
+                                50600.0,
+                                52600.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "667042792f31c6d7d7990dd3",
+                                "6670434de1148706211d2ba2",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "RR Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "RR Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                19.23,
+                                19.23,
+                                10000.0,
+                                10000.0,
+                                10000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "66d6a5aea3d855c025da040a",
+                                "66d6a5f0a3d8557e8889d4d1",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Demo Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower BA (Amura Demo Project)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1000.0,
+                                1000.0,
+                                1200000.0,
+                                1000000.0,
+                                1000000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "55448e643bb2f8e027000491",
+                                "66bb4a150d1851a34ed7b706",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ankit Tower 11",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "RK tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "values": [
+                                1.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f2198a7a039e779000004",
+                                "624cf7d7a6bbc93732c12910",
+                                null
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower 1 (Amura Residences)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                28000.0,
+                                28000.0,
+                                23772000.0,
+                                27827325.0,
+                                29775237.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "670cf1485d8def8bf2e79da9",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "RR Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "RR Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                1.0,
+                                48.08,
+                                48.08,
+                                25000.0,
+                                25000.0,
+                                27500.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "66d6a5aea3d855c025da040a",
+                                "66d6a5f0a3d8557e8889d4d1",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Housings",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower B (Amura Housings)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                28000.0,
+                                28000.0,
+                                28000000.0,
+                                28000000.0,
+                                28000000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "56dfc974a7a039c12f0001c9",
+                                "6710c1eb58f1e7c6a46c06d5",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Project Plot",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "BLT30",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                2000.0,
+                                2000.0,
+                                4000000.0,
+                                4000000.0,
+                                4000000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "677e1ee758f1e7659dee926d",
+                                "677e23e35d8defe8fee448a7",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Ankit Tower 11",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Ankit tower 1 (Ankit)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                25000.0,
+                                25000.0,
+                                20000000.0,
+                                20000000.0,
+                                20000000.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f2198a7a039e779000004",
+                                "66c7031b2f31c6b36571375d",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartments",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Hibisicus - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                1.0,
+                                4299.0,
+                                4299.0,
+                                6014301.0,
+                                6014301.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5abb4025923d4a56c487f845",
+                                "5abb41f6923d4a78aef53842",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Aniket Inventory Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Aniket Inventory Tower",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1000.0,
+                                1000.0,
+                                100000.0,
+                                100100.0,
+                                100300.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "67495a3b5d8defb1ab1d49d5",
+                                "674985d5e11487cd5daec07e",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "imperial Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Imperial Tower 1",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Hold",
+                            "values": [
+                                1.0,
+                                123.0,
+                                123.0,
+                                259653.0,
+                                259653.0,
+                                272635.65
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5513c8c33bb2f8e990000364",
+                                "5513c94b3bb2f8e990000387",
+                                "hold"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "TOWER A (Amura Residences)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                34000.0,
+                                34000.0,
+                                27200000.0,
+                                31255325.0,
+                                33443197.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "66d01971e11487205797f4a6",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "imperial Heights",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "howdh (imperial Heights)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Booked",
+                            "values": [
+                                1.0,
+                                1.9,
+                                1.9,
+                                234.0,
+                                234.0,
+                                1234.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5513c8c33bb2f8e990000364",
+                                "66b5b1fee11487ba67461707",
+                                "booked"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "New Final Project",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower (New Final Project)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                1.0,
+                                1.0,
+                                111.0,
+                                1.0,
+                                1.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65c1f359735daf55e63c8b72",
+                                "667425a6a3d8554f6b131c76",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "April Imported PR 5",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower (April Imported PR 5)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                0.63,
+                                0.63,
+                                5.0,
+                                5.0,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "643d190f7b93446f07a8f5dd",
+                                "66c620b1735daf7316c3b410",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "project test new",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Tower 3",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                3400.0,
+                                3400.0,
+                                34003400.0,
+                                34003400.0,
+                                34003400.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "6684266058f1e71c5af74a3a",
+                                "668426cd2f31c65a26286b71",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Sagar Test ",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Default Tower (Sagar Test )",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                966.0,
+                                966.0,
+                                19320.0,
+                                4994.0,
+                                7494.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "65a4ebe72f31c6bc94c1e995",
+                                "66d6bf2d58f1e7dd3483a975",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Amura Residences",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Project tower A (Amura Residences)",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                1.0,
+                                20000.0,
+                                20000.0,
+                                18000000.0,
+                                22055325.0,
+                                23599197.75
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "531f21cca7a039e779000009",
+                                "66c7135e58f1e715cfd5aa20",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

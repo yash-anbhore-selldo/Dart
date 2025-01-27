@@ -18,6 +18,13 @@ void main() {
     print("Number is equal to 5");
   }
 
+// Not possible as it does not take true / false values 
+// switch(true){
+//   case false:print("HI");
+// }
+
+
+
   String fruit = 'apple';
   switch(fruit){
     case 'appl':

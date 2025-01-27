@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main(){
 
   /*  ------------------ final --------------------
@@ -32,6 +34,7 @@ void main(){
   */
 
   const double pi =3.14;
+  // const dynamic x = stdin.readLineSync();  // we cant do this as it is we are setting value at runtime
 
   print("Value of PI is $pi");
 

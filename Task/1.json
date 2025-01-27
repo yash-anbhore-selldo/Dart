@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - A",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                98.0,
+                                421302.0,
+                                4299.0,
+                                426949166.4,
+                                426949166.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba47aa923d4a6815477d04",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": null,
+            "name": "Embassy Spring Apartment",
+            "values": [],
+            "dimensions": [
+                {
+                    "id": null,
+                    "name": "Daisy - B",
+                    "values": [],
+                    "dimensions": [
+                        {
+                            "id": null,
+                            "name": "Available",
+                            "values": [
+                                98.0,
+                                4.0,
+                                4299.0,
+                                426949166.4,
+                                426949166.4,
+                                0.0
+                            ],
+                            "dimensions": [],
+                            "url_params": [
+                                "5aba0bce923d4a6951476724",
+                                "5aba47c8923d4a69514775c0",
+                                "available"
+                            ],
+                            "url": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
