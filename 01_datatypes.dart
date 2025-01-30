@@ -93,6 +93,8 @@ void main(){
       };
       print ("Age = $agemp");
 
+      print(agemp["Alice"]);
+
       
 
 }

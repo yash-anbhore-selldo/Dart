@@ -69,6 +69,9 @@ void map() {
   for (var entry in mp.entries) {
     print('${entry.key}: ${entry.value}');
   }
+
+
+  mp.forEach((k,v)=> print(" $k $v"));
 }
 
 void set() {

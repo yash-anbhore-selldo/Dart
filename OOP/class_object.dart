@@ -29,7 +29,7 @@ class CaO{
 }
 
 class B extends CaO{
-
+ 
 }
 
 void main(){
