@@ -16,27 +16,32 @@
 import 'dart:io';
 
 void main() {
-  Map<num, Map<String, dynamic>> fruitsbucket = {
-    1: {"name": "Banana", "Quantity in Dozen": 10, "Price": 100},
-    2: {"name": "Apple", "Quantity in Dozen": 10, "Price": 200},
-    3: {"name": "Kiwi", "Quantity in Dozen": 10, "Price": 100},
-    4: {"name": "Orange", "Quantity in Dozen": 10, "Price": 400},
-    5: {"name": "Melon", "Quantity in Dozen": 10, "Price": 300},
-    6: {"name": "Grapes", "Quantity in Dozen": 10, "Price": 100},
-    7: {"name": "Gauva", "Quantity in Dozen": 10, "Price": 200},
-  };
-
+  // var  fruitsbucket = {
+  //   1: {"name": "Banana", "Quantity in Dozen": 10, "Price": 100},
+  //   2: {"name": "Apple", "Quantity in Dozen": 10, "Price": 200},
+  //   3: {"name": "Kiwi", "Quantity in Dozen": 10, "Price": 100},
+  //   4: {"name": "Orange", "Quantity in Dozen": 10, "Price": 400},
+  //   5: {"name": "Melon", "Quantity in Dozen": 10, "Price": 300},
+  //   6: {"name": "Grapes", "Quantity in Dozen": 10, "Price": 100},
+  //   7: {"name": "Gauva", "Quantity in Dozen": 10, "Price": 200},
+  // };
+Map<String,num> fruitsbucket={
+  "Banana":101,
+  "Kiwi":101,
+  "Melon":101,
+  "Grapesj":101,
+};
  
-  num remainingAmount=0;
-  fruitsbucket.forEach((xabs,yabs)=>
-      remainingAmount += yabs["Price"] 
-  );
-  print("$remainingAmount");
+  // num remainingAmount=0;
+  // fruitsbucket.forEach((xabs,yabs)=>
+  //     remainingAmount += yabs["Price"] 
+  // );
+  // print("$remainingAmount");
 
 
-  // print(fruitsbucket);
+  print(fruitsbucket);
 
-  Map<num, Map<String, dynamic>> addtocartlist = {};
+  var addtocartlist = {};
 
   void showBucket() {
     print("--------------- Fruit Basket ------------");
@@ -64,19 +69,22 @@ void main() {
     return true;
   }
 
-  bool itemAlreadyInCart(var item, var itemval) {
+  bool itemAlreadyInCart(num item, var itemval) {
     if (addtocartlist.containsKey(item) && addtocartlist[item]! >= itemval) {
       itemval = itemval * -1;
       addtocartlist[item] = addtocartlist[item]! - itemval;
-      fruitsbucket[item] = fruitsbucket[item]! - itemval;
+      // fruitsbucket[item] = fruitsbucket[item]! - itemval;
       return false;
     }
     return true;
   }
 
+
+
   bool checkitemremain(item, itemval) {
     if (!checkitemexist(item)) return false;
-    num? count = fruitsbucket[item];
+    // num? count = fruitsbucket[item];
+    num count =0;
     if (count != null && count - itemval < 0) {
       print("Only $count $item is remaning please enter valid quantity");
       return false;
@@ -86,8 +94,8 @@ void main() {
 
   void addtocart(var item, var itemval) {
     if (!checkitemexist(item)) return;
-    if (!checkitemremain(item, itemval)) return;
-    if (!itemAlreadyInCart(item, itemval)) return;
+    // if (!checkitemremain(item, itemval)) return;
+    // if (!itemAlreadyInCart(item, itemval)) return;
 
     if (itemval > 0) {
       addtocartlist[item] = itemval;

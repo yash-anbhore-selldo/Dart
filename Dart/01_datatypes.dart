@@ -71,6 +71,24 @@ void main(){
       A Set in Dart is an unordered(or ordered) collection of unique objects. 
       Sets do not allow duplicate values, 
     */
+        Set<List<Map<int,String>>> slm={
+          [
+            {
+              1:"One",
+            },
+            {
+              2:"Two"
+            }
+          ],
+          [{
+            1:"Ek",},{
+              2:"Don"
+            }
+          ]
+        };
+
+        print("Set of ---  $slm");
+
         Set<String> colors = {'Red', 'Green', 'Blue'};
         // Adding an element
         colors.add('Yellow');

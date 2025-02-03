@@ -7,6 +7,7 @@ void main() {
   str = str.toUpperCase();
   // print(str);
 
+  // ignore: unused_local_variable
   String fcap = str[0].toUpperCase() + str.substring(1).toLowerCase();
   // print(fcap);
 
